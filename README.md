@@ -2,14 +2,20 @@
 
 ## Overview
 • Pause and play your music
+
 • Play next or previous song
+
 • Search for any artist or song
 
 ## Keywords
 • **ply** for play
+
 • **ps** for pause
+
 • **nxt** for next song
+
 • **pvs** for previous song
+
 • **td {query}** for tidal search (replace {query} with whatever you want to search.
 
 ## Download
