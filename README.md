@@ -16,7 +16,7 @@
 
 • **pvs** for previous song
 
-• **td {query}** for tidal search (replace {query} with whatever you want to search.
+• **td {query}** for tidal search (replace {query} with whatever you want to search).
 
 ## Download
 Click on [tidalcontroller.zip](https://github.com/sebastianpalaciosm/tidalcontroller/files/8114488/tidalcontroller.zip)
